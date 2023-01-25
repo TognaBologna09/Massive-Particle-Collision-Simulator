@@ -7,4 +7,4 @@ This was a personal project that I pursued to further my game development knowle
 The script was written within the Spyder IDE and uses the pygame library. After running the script a window will appear. __Hit spacebar__ and particles will spawn. 
 
 ### Example Output from Script
-![Alt text](https://github.com/TognaBologna09/OrbitalAnomalyCartographer/blob/main/AnomalyCartographerExample.png)
+![Alt text](https://github.com/TognaBologna09/Massive-Particle-Collision-Simulator/blob/main/pygameParticlesCollidingPNG.png)
